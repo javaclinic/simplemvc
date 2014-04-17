@@ -20,4 +20,9 @@ This example demonstrates a simple Web application that implements a Model-View-
 4. Select `Check out Maven Projects from SCM`
 5. Select SCM URL as `git` and type in `https://github.com/javaclinic/simplemvc.git`
 6. Select `Finish`
+7. Right click on newly created project, e.g. `simplemvc`
+8. Select `Maven`
+9. Select `Update Project ... ALT+F5`
+10. Select `OK`
+
 
